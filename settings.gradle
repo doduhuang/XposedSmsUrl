@@ -1,0 +1,2 @@
+rootProject.name='SmsUpdate'
+include ':app'

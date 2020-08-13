@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SmsUpdate</string>
+    <string name="xposed_description">信息上传</string>
+</resources>
